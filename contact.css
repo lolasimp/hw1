@@ -1,25 +1,4 @@
 
-* {
-    padding: 0;
-    margin:0;
-}
-header {
-    width: 477px;
-    padding-left: 307px;
-    padding-top: 90px;
-}
-
-/* body {
-  color: black;
-  font-weight: bold;
-} */
-/* .main-container {
-    background-image: url("IMG_1061.jpg");
-} */
-.bio-image {
-    width: 255px;
-    border-radius: 90%;
-}
 
 a:hover{
     color: blue;
