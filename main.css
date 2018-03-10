@@ -9,18 +9,28 @@ header {
     padding-top: 90px;
 }
 
-/* body {
-  color: black;
-  font-weight: bold;
-} */
-/* .main-container {
-    background-image: url("IMG_1061.jpg");
-} */
+body{
+background-image: url("IMG_1061.jpg");
+}
+
+
+
+#name-title{
+    color: #7360d0bf;
+}
+
+h2 {
+    color: #7360d0bf; 
+}
+
 .bio-image {
     width: 255px;
     border-radius: 90%;
 }
-
+div {
+    font-size: 17px;
+    color: white;
+}
 a:hover{
     color: blue;
     background-color: yellow;
@@ -31,6 +41,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    font-size: 18px;
 }
 
 li {
